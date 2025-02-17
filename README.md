@@ -1,4 +1,4 @@
-# RAG
+# LLM
 
 ## Simple RAG using local models
 
@@ -24,3 +24,7 @@ agent.js Create some simple tools that can be called by the Mistral chat to answ
 toosl.js The simple tools
 
 The sleep parts are here to use the free Mistral API which don't allows too many repeated calls.
+
+## Using HugginFace
+
+Some simple examples
